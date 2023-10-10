@@ -4,5 +4,5 @@ The mnist data set is a collection of images whose content can be consider as 28
 ## Author
 **Julián David Candela**
 * [LinkedIn](https://sites.google.com/view/juliandavidcandela/about-me)
-* [Portfolio web](https://sites.google.com/view/juliandavidcandela/about-me)
+* [Portfolio web](https://sites.google.com/view/juliandavidcandela/what-i-do/portfolio)
   
